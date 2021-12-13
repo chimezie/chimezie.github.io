@@ -4,6 +4,8 @@ title: Programs
 permalink: /programs/
 ---
 
+_Highlight stating that both programs are included in membership_ 
+
 ## KIDS and YOUTH PROGRAM
 Martial arts provide a natural outlet for kids' energy while encouraging positive social interactions. Our KIDS and YOUTH PROGRAMS foster social and emotional development in addition to the invaluable knowledge of self defense.
 
