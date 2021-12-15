@@ -4,7 +4,7 @@
 
 layout: home
 title: "Via Martial arts"
-permalink: /vma
+permalink: /
 ---
 
 VIA MARTIAL ARTS is the first and only academy in Ohio fully dedicated to the instruction of Brazilian martial arts – Capoeira and Brazilian Jiu Jitsu. 

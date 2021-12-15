@@ -22,7 +22,7 @@ title: VIA MARTIAL ARTS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   VIA MARTIAL ARTS is the first and only academy in Ohio fully dedicated to the instruction of Brazilian martial arts – Capoeira and Brazilian Jiu Jitsu. 
-baseurl: "/vma" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
